@@ -52,41 +52,24 @@
     <div class="col">
       <div class="card mr-3">
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <h5 class="card-title">convert text to lowercase</h5>
+          <a href="/lowercase/" class="btn btn-primary">Go to Lowercase</a>
         </div>
       </div>
     </div>
     <div class="col">
       <div class="card mr-3">
         <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <h5 class="card-title">CONVERT TEXT TO UPPERCASE</h5>
+          <a href="/uppercase/" class="btn btn-primary">Go to Uppercase</a>
         </div>
       </div>
     </div>
-    <div class="col">
-      <div class="card mr-3">
-        <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card mr-3">
-        <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <article class="justify pt-4">
     <?php startblock('article') ?><?php endblock() ?>
   </article>
 
+  </div>
 </div>
 <footer class="footer">
   <div class="container text-center">
