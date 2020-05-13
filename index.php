@@ -1,11 +1,11 @@
 <?php include 'base.php' ?>
 
 <?php startblock('meta_title') ?>
-  Index
+  Bloco 8 Online Tools
 <?php endblock() ?>
 
 <?php startblock('meta_description') ?>
-  Index
+  Very simple online text processing tool, just type or paste your text for convert
 <?php endblock() ?>
 
 <?php startblock('meta_keywords') ?>
@@ -13,16 +13,18 @@
 <?php endblock() ?>
 
 <?php startblock('title') ?>
-  Index
+  Bloco 8 Online Tools
 <?php endblock() ?>
 
 <?php startblock('description') ?>
-  Index
+  Explore the options below:
 <?php endblock() ?>
 
 
 <?php startblock('article') ?>
-  <p>Mussum Ipsum, cacilds vidis litro abertis. Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget. Interagi no mé, cursus quis, vehicula ac nisi. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Si num tem leite então bota uma pinga aí cumpadi!</p>
-  <p>Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Leite de capivaris, leite de mula manquis sem cabeça. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!</p>
-  <p>Aenean aliquam molestie leo, vitae iaculis nisl. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Quem num gosta di mé, boa gentis num é. Copo furadis é disculpa de bebadis, arcu quam euismod magna.</p>
+  <h4>Welcome to the Bloco 8 Online Tools</h4>
+  A very simple online text processing tool, just type or paste your text for convert.
+  You can convert to lower, upper, and capitalize case letters.
+  The Bloco 8 Online Tools is completely 'for free'.
+
 <?php endblock() ?>
